@@ -20,6 +20,6 @@
 
 ## 📫 Connect With Me
 - GitHub: @BibekShrestha
-- Email: your-email@example.com
+- Email: bibekshrestha9763@gmail.com
 
 > "Dream big, start small, and keep moving forward."

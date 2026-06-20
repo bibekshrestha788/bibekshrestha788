@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Bibek Shrestha 👋
 
-<!--
-**bibekshrestha788/bibekshrestha788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Science student from Nepal majoring in Computer Science.  
+🐍 Currently learning Python and strengthening my programming skills.  
+🤖 Passionate about Artificial Intelligence and the dream of building advanced AI systems from scratch.  
+🚀 Aspiring entrepreneur with a goal of creating impactful technology and achieving financial success at a young age.  
+📚 Always curious, always learning, and always looking for new challenges.
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
+- Python Programming
+- Data Structures & Algorithms
+- Computer Science Fundamentals
+- Basics of AI and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build useful software and AI projects.
+- Contribute to open-source projects.
+- Continuously improve my problem-solving and programming skills.
+- Turn ideas into real-world technology.
+
+## 📫 Connect With Me
+- GitHub: @BibekShrestha
+- Email: your-email@example.com
+
+> "Dream big, start small, and keep moving forward."

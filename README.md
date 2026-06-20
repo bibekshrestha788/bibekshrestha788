@@ -19,7 +19,7 @@
 - Turn ideas into real-world technology.
 
 ## 📫 Connect With Me
-- GitHub: @BibekShrestha
+- GitHub: @BibekShrestha788
 - Email: bibekshrestha9763@gmail.com
 
 > "Dream big, start small, and keep moving forward."
